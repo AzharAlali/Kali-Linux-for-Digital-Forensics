@@ -2,7 +2,7 @@
 
 
 ### Contibutors: 
-- Azhat Alali
+- [Azhat Alali](https://github.com/AzharAlali)
 - [Susan Maharjan](https://github.com/susanmaharjan)
 - [Samuel Eagan](https://github.com/samueleagan) 
 
