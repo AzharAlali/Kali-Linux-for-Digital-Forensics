@@ -2,9 +2,9 @@
 
 
 ### Contibutors: 
-Azhat Alali
-Susan Maharjan
-Samuel D Eagan 
+- Azhat Alali
+- [Susan Maharjan](https://github.com/susanmaharjan)
+- Samuel D Eagan 
 
 ## What is Kali Linux? 
 
