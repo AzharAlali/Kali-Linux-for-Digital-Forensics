@@ -7,7 +7,7 @@
 - [Samuel Eagan](https://github.com/samueleagan) 
 
 ### Sub-Topics
-- [Azhat Alali](https://github.com/AzharAlali) - Linux common comands- how to create "Hello World" using C language with Linux.  
+- [Azhat Alali](https://github.com/AzharAlali) - Linux common comands- how to create "Hello World" in C language using Linux.  
 - [Susan Maharjan](https://github.com/susanmaharjan)- show how to download, install, set up and run shell command
 - [Samuel Eagan](https://github.com/samueleagan) - Overview of preinstalled applications and their uses
 
