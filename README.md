@@ -48,17 +48,18 @@ OR
 - Then you need to go to the settings and upload the kali linux ISO file before starting the virtual machine.
 - Now you can start and install kali linux in your virtual machine.
 - We will choose graphical instalation as our process to install.
--Then choose language, country, language type as you prefer.
+- Then choose language, country, language type as you prefer.
 - Then give a host name.
 - You  can leave the domain name as blank if there is no domain name.
 - Then give a user name. I gave susan.
-- also give an account name. I gave susan. also setup password. this username and passwoard will allow you to enter kalilinux once it is installed. 
+- also give an account name. I gave susan. also setup password. This username and password will allow you to enter kalilinux once it is installed. 
 - Then choose the time zone. I choosed central time.
 - In partetioning part coose everything as defult except change write partetioning disk to yes.
-- Then I have left the Kali linuxsoftware selection to defult but you can choose as you want.
--In GRUB boot loader choose the secon option that looks like directories.
+- Then I have left the Kali linux software selection to defult but you can choose as you want.
+- In GRUB boot loader choose the secon option that looks like directories.
 - Then finish the instalation.
 - After that use the username and password that we created to get to kali linux.
+- Then you can go to the command prompt and use the Kali linux commands.
 
 
 
