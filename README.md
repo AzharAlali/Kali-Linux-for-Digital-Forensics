@@ -47,6 +47,7 @@ OR
 | --- | --- |
 | mkdir | Create directory |
 | rmdir  | remove directory  | 
+| nano | create a file | 
 | pwd	| It stands for "Print Working Directory" which prints the name of the working directory |
 | users	| It will display login names of the user currently logged in to the system |
 |  cat	| It is used to create single or multiple files, view contained file, concatenate files, and redirect output in terminal or files | 
@@ -56,3 +57,23 @@ OR
 
 ## How to create "Hello World" in C 
 
+```
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+```
+# Output 
+``` 
+Hello, World!
+```
+
+How "Hello, World!" program works?
+- `#include` is a preprocessor command that tells the compiler to include the contents of stdio.h (standard input and output) file in the program.
+- `stdio.h`  file contains functions such as scanf() and printf() to take input and display output respectively.
+- `printf()` is function without writing `#include <stdio.h>`, the program will not compile.
+- The execution of a C program starts from the `main()` function.
+- `printf()` is a library function to send formatted output to the screen. In this program, `printf()` displays Hello, World! text on the screen.
+- `return 0;`  statement is the "Exit status" of the program. In simple terms, the program ends with this statement.
