@@ -7,7 +7,7 @@
 - [Samuel Eagan](https://github.com/samueleagan) 
 
 ### Sub-Topics
-- [Azhat Alali](https://github.com/AzharAlali) - Show how to perform Kali Linux
+- [Azhat Alali](https://github.com/AzharAlali) - Linux common comands- how to create "Hello World" using C language with Linux.  
 - [Susan Maharjan](https://github.com/susanmaharjan)- show how to download, install, set up and run shell command
 - [Samuel Eagan](https://github.com/samueleagan) - Overview of preinstalled applications and their uses
 
@@ -39,4 +39,20 @@ OR
 - Click Kali Linux 64-Bit (Installer)
 
 ### Steps to install Kali Linux in the virtual machine
+
+
+## Common Linux commands 
+
+| Command | Description |
+| --- | --- |
+| mkdir | Create directory |
+| rmdir  | remove directory  | 
+| pwd	| It stands for "Print Working Directory" which prints the name of the working directory |
+| users	| It will display login names of the user currently logged in to the system |
+|  cat	| It is used to create single or multiple files, view contained file, concatenate files, and redirect output in terminal or files | 
+| cd	| It is used to change or switch the current working directory | 
+| cp	| It is used to copy files |
+
+
+## How to create "Hello World" in C 
 
