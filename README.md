@@ -39,6 +39,27 @@ OR
 - Click Kali Linux 64-Bit (Installer)
 
 ### Steps to install Kali Linux in the virtual machine
+- Go step by step by as in the [How to install kali linux](https://app.vidgrid.com/view/FogyTSu14dhS) video.
+
+- First install virtual box.
+- Then download ISO file for kali linux.
+- Then start virtual box and create virtual machine. Here you need to define file type as linux and use Debien(64-bit) as version.
+- After that set up the space and location.
+- Then you need to go to the settings and upload the kali linux ISO file before starting the virtual machine.
+- Now you can start and install kali linux in your virtual machine.
+- We will choose graphical instalation as our process to install.
+-Then choose language, country, language type as you prefer.
+- Then give a host name.
+- You  can leave the domain name as blank if there is no domain name.
+- Then give a user name. I gave susan.
+- also give an account name. I gave susan. also setup password. this username and passwoard will allow you to enter kalilinux once it is installed. 
+- Then choose the time zone. I choosed central time.
+- In partetioning part coose everything as defult except change write partetioning disk to yes.
+- Then I have left the Kali linuxsoftware selection to defult but you can choose as you want.
+-In GRUB boot loader choose the secon option that looks like directories.
+- Then finish the instalation.
+- After that use the username and password that we created to get to kali linux.
+
 
 
 ## Common Linux commands 
