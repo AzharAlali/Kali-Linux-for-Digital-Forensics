@@ -9,7 +9,7 @@
 ### Sub-Topics
 - [Azhat Alali](https://github.com/AzharAlali) - Linux common comands- how to create "Hello World" in C language using Linux.  
 - [Susan Maharjan](https://github.com/susanmaharjan)- show how to download, install, set up and run shell command
-- [Samuel Eagan](https://github.com/samueleagan) - Overview of preinstalled applications and their uses
+- [Samuel Eagan](https://github.com/samueleagan) - Overview examples of preinstalled applications and their uses
 
 
 # How to download Kali Linux for Digital Forensics
@@ -77,3 +77,15 @@ How "Hello, World!" program works?
 - The execution of a C program starts from the `main()` function.
 - `printf()` is a library function to send formatted output to the screen. In this program, `printf()` displays Hello, World! text on the screen.
 - `return 0;`  statement is the "Exit status" of the program. In simple terms, the program ends with this statement.
+
+# Preinstalled Applications
+
+Kali Linux comes preinstalled with many different applications that have usage in Digital Forensics. Some examples of these are:
+
+| Program | Description |
+| --- | --- |
+| Wireshark | A tool for scanning and analyzing network traffic. |
+| Binwalk | A program that can be used to scan binary files for code and files. |
+| HashDeep | A program that can be used to auto hash files in multuple different hasing algorithms. |
+
+You can find more examples of these tools at [Linux Hint - Kali Linux Top Forensic Tools (2020)](https://linuxhint.com/kali_linux_top_forensic_tools/) and programs related to hacking at [GeeksforGeeks - Top 10 Kali Linux Tools For Hacking](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
