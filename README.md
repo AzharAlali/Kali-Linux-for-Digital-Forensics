@@ -84,8 +84,8 @@ Kali Linux comes preinstalled with many different applications that have usage i
 
 | Program | Description |
 | --- | --- |
-| Wireshark | A tool for scanning and analyzing network traffic. |
-| Binwalk | A program that can be used to scan binary files for code and files. |
-| HashDeep | A program that can be used to auto hash files in multuple different hasing algorithms. |
+| [Wireshark](https://www.wireshark.org/) | A tool for scanning and analyzing network traffic. |
+| [Binwalk](https://tools.kali.org/forensics/binwalk) | A program that can be used to scan binary files for code and files. |
+| [HashDeep](http://md5deep.sourceforge.net/) | A program that can be used to auto hash files in multuple different hasing algorithms. |
 
 You can find more examples of these tools at [Linux Hint - Kali Linux Top Forensic Tools (2020)](https://linuxhint.com/kali_linux_top_forensic_tools/) and programs related to hacking at [GeeksforGeeks - Top 10 Kali Linux Tools For Hacking](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
