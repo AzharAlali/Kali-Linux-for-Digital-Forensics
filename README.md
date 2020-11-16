@@ -1,20 +1,20 @@
 # Kali-Linux-for-Digital-Forensics
-
+---
 
 ### Contributors: 
 - [Azhat Alali](https://github.com/AzharAlali)
-- [Susan Maharjan](https://github.com/susanmaharjan) [Demonstration Link](https://app.vidgrid.com/view/FogyTSu14dhS)
-Major:- Bachelor of Science in Computer Science
-Graduating: May 2021
+- <img src="https://github.com/AzharAlali/Kali-Linux-for-Digital-Forensics/blob/main/pp.jpg" with=100 height=100> [Susan Maharjan](https://github.com/susanmaharjan) - [Demonstration Link](https://app.vidgrid.com/view/FogyTSu14dhS)
+Bachelor of Science in Computer Science May 2021
+
 
 - [Samuel Eagan](https://github.com/samueleagan) - [Demonstration Link](https://youtu.be/8NvbWOsYIos)
-
+---
 ### Sub-Topics
 - [Azhat Alali](https://github.com/AzharAlali) - Linux common comands- how to create "Hello World" in C language using Linux.  
 - [Susan Maharjan](https://github.com/susanmaharjan)- show how to download, install, set up and run shell command
 - [Samuel Eagan](https://github.com/samueleagan) - Overview examples of preinstalled applications and their uses
 
-
+---
 # How to download Kali Linux for Digital Forensics
 
 ## Pre-requisites
@@ -66,7 +66,7 @@ OR
 
 ### Reference
 [https://www.youtube.com/watch?v=V_Payl5FlgQ&t=919s](https://www.youtube.com/watch?v=V_Payl5FlgQ&t=919s)
-
+---
 ## Common Linux commands 
 
 | Command | Description |
@@ -103,7 +103,7 @@ How "Hello, World!" program works?
 - The execution of a C program starts from the `main()` function.
 - `printf()` is a library function to send formatted output to the screen. In this program, `printf()` displays Hello, World! text on the screen.
 - `return 0;`  statement is the "Exit status" of the program. In simple terms, the program ends with this statement.
-
+---
 # Preinstalled Applications
 
 Kali Linux comes preinstalled with many different applications that have usage in Digital Forensics. Some examples of these are:
