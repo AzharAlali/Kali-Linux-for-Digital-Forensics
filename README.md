@@ -4,8 +4,6 @@
 ### Contributors: 
 - [Azhat Alali](https://github.com/AzharAlali)
 - <img src="https://github.com/AzharAlali/Kali-Linux-for-Digital-Forensics/blob/main/pp.jpg" with=100 height=100> [Susan Maharjan](https://github.com/susanmaharjan) - [Demonstration Link](https://app.vidgrid.com/view/FogyTSu14dhS)
-Bachelor of Science in Computer Science May 2021
-
 
 - [Samuel Eagan](https://github.com/samueleagan) - [Demonstration Link](https://youtu.be/8NvbWOsYIos)
 ---
