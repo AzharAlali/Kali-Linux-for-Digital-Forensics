@@ -3,7 +3,10 @@
 
 ### Contributors: 
 - [Azhat Alali](https://github.com/AzharAlali)
-- [Susan Maharjan](https://github.com/susanmaharjan)
+- [Susan Maharjan](https://github.com/susanmaharjan) [Demonstration Link](https://app.vidgrid.com/view/FogyTSu14dhS)
+Major:- Bachelor of Science in Computer Science
+Graduating: May 2021
+
 - [Samuel Eagan](https://github.com/samueleagan) - [Demonstration Link](https://youtu.be/8NvbWOsYIos)
 
 ### Sub-Topics
